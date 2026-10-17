@@ -1,0 +1,5 @@
+origin: /home/acer/ultron_workspace/nkbn-clips/sources/f1-overtakes.webm
+start: 186
+end: 244
+mode: blur
+rendered: 2026-10-18 00:11

@@ -1,5 +1,5 @@
 origin: /home/acer/ultron_workspace/nkbn-clips/sources/mukhtalif-kb.webm
-start: 695
-end: 753
+start: 663
+end: 721
 mode: blur
-rendered: 2026-10-17 23:00
+rendered: 2026-10-18 00:08
