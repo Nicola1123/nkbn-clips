@@ -1,0 +1,5 @@
+origin: /home/acer/ultron_workspace/nkbn-clips/sources/doac-fear.webm
+start: 14
+end: 72
+mode: blur
+rendered: 2026-10-17 21:37

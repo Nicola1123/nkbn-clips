@@ -1,0 +1,5 @@
+origin: /home/acer/ultron_workspace/nkbn-clips/sources/doac-idea.webm
+start: 0
+end: 58
+mode: blur
+rendered: 2026-10-17 21:36
