@@ -1,0 +1,5 @@
+origin: /home/acer/ultron_workspace/clipper/sources/rz1B4B2yBZY.mp4
+start: 12
+end: 42
+mode: blur
+rendered: 2026-10-17 04:36
