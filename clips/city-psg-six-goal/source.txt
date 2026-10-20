@@ -1,0 +1,5 @@
+origin: /home/acer/ultron_workspace/nkbn-clips/sources/city-psg.webm
+start: 55
+end: 113
+mode: crop-zoom-1.2
+rendered: remediation of UEFA-blocked clip
